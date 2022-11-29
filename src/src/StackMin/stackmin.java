@@ -44,7 +44,7 @@ public class stackmin {
 	            System.out.println(x);
 	    }
 	    
-	    void minimum()
+	    void Min()
 	    {
 	        if (stack.isEmpty())
 	            System.out.println("There is nothing in the stack.");
